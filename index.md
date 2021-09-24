@@ -1,4 +1,4 @@
- ** #About me **
+ ** # About me **
 
 ### Bio
 I am currently a junior studying computer science at University of California, San Diego and my intrests lie in software development, machine learning, and startups.
@@ -35,6 +35,6 @@ Check out the README file here:
 [README file for this project](README.md)
   
 ### Things I'll be working on in the future
- - [ ] Web scraping project 
- - [ ] Deep learning project 
- - [ ] Mobile development project
+- [ ] Web scraping project 
+- [ ] Deep learning project 
+- [ ] Mobile development project
