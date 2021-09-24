@@ -1,4 +1,4 @@
- ** # About me **
+# About me
 
 ### Bio
 I am currently a junior studying computer science at University of California, San Diego and my intrests lie in software development, machine learning, and startups.
@@ -23,7 +23,7 @@ In the words of Oscar Wilde:
  > "Be yourself; everyone else is already taken." 
 
 ### Code 
-This is how you print something in Java: 
+This is how you **print** something in **Java**: 
   `System.out.println("Hello world");`
 
 ### Website
