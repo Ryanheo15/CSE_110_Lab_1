@@ -1,4 +1,4 @@
- # ** About me **
+ ** #About me **
 
 ### Bio
 I am currently a junior studying computer science at University of California, San Diego and my intrests lie in software development, machine learning, and startups.
@@ -20,7 +20,7 @@ Here are some hobbies and activites that I enjoy
 
 ### Favorite quote
 In the words of Oscar Wilde:
- > Be yourself; everyone else is already taken. 
+ > "Be yourself; everyone else is already taken." 
 
 ### Code 
 This is how you print something in Java: 
@@ -28,13 +28,13 @@ This is how you print something in Java:
 
 ### Website
 This is the startup concept that I'm currently working on: 
-  https://mealflow.co/
+  [Mealflow](https://mealflow.co/)
 
 ### README File
 Check out the README file here: 
 [README file for this project](README.md)
   
 ### Things I'll be working on in the future
- - [] Web scraping project 
- - [] Deep learning project 
- - [] Mobile development project
+ - [ ] Web scraping project 
+ - [ ] Deep learning project 
+ - [ ] Mobile development project
